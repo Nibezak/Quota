@@ -1,10 +1,3 @@
-# eShare | File Sharing App
-
-A file sharing service, where you can upload files and provide a download link for anyone on the internet by sharing the link 🔗 or via mail ✉️ which remains active for 24hours 🕙
-This project will be very useful for sharing files instantly without any further hassle.
-
-https://user-images.githubusercontent.com/55273506/151742997-87a53dac-7396-430f-a074-ba888f782a92.mov
-
 ## Setup:
 
 1.  Clone the repository.
